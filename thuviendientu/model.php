@@ -1,0 +1,17 @@
+<?php 
+include('model/members.php');
+include('model/permissions.php');
+include('model/activity_historys.php');
+include('model/categories.php');
+include('model/books.php');
+include('model/building.php');
+include('model/historybook.php');
+include('model/customers.php');
+include('model/floors.php');
+include('model/rooms.php');
+include('model/shelfs.php');
+include('model/warehouses.php');
+include('model/orders.php');
+include('model/order_details.php');
+include('model/warehouse_historys.php');
+include('model/order_historys.php');
